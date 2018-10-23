@@ -1,9 +1,0 @@
-       \/)/)       ${AnsiColor.RED}███████${AnsiColor.BLACK}╗ ██████${AnsiColor.RED}╗ ████████${AnsiColor.BLACK}╗██${AnsiColor.RED}╗ █████${AnsiColor.BLACK}╗
-     _'  oo(_.-.   ${AnsiColor.RED}██${AnsiColor.BLACK}╔════╝██${AnsiColor.RED}╔═══${AnsiColor.BLACK}██${AnsiColor.RED}╗${AnsiColor.BLACK}╚══${AnsiColor.RED}██${AnsiColor.BLACK}╔══╝██${AnsiColor.RED}║██${AnsiColor.BLACK}╔══${AnsiColor.RED}██${AnsiColor.BLACK}╗   \ \ \ \
-   /'.     .---'   ${AnsiColor.RED}█████${AnsiColor.BLACK}╗  ██${AnsiColor.RED}║   ${AnsiColor.BLACK}██${AnsiColor.RED}║${AnsiColor.BLACK}   ${AnsiColor.RED}██${AnsiColor.BLACK}║   ██${AnsiColor.RED}║███████${AnsiColor.BLACK}║    \ \ \ \
- /'-./    (        ${AnsiColor.RED}██${AnsiColor.BLACK}╔══╝  ██${AnsiColor.RED}║   ${AnsiColor.BLACK}██${AnsiColor.RED}║${AnsiColor.BLACK}   ${AnsiColor.RED}██${AnsiColor.BLACK}║   ██${AnsiColor.RED}║██${AnsiColor.BLACK}╔══${AnsiColor.RED}██${AnsiColor.BLACK}║     ) ) ) )
- )     ; __\       ${AnsiColor.RED}██${AnsiColor.BLACK}║     ${AnsiColor.RED}╚${AnsiColor.BLACK}██████${AnsiColor.RED}╔╝${AnsiColor.BLACK}   ${AnsiColor.RED}██${AnsiColor.BLACK}║   ██${AnsiColor.RED}║██${AnsiColor.BLACK}║  ${AnsiColor.RED}██${AnsiColor.BLACK}║    / / / /
- \_.'\ : __|       ${AnsiColor.BLACK}╚═╝      ${AnsiColor.RED}╚═════╝${AnsiColor.BLACK}    ╚═╝${AnsiColor.RED}   ╚═╝${AnsiColor.BLACK}╚═╝  ╚═╝   /_/_/_/
-      )  _/        
-     (  (,.        ${AnsiColor.RED}:::${AnsiColor.MAGENTA}RUNNING SPRING BOOT${AnsiColor.GREEN}+${AnsiColor.MAGENTA}SECURITY JWT${AnsiColor.RED}:::
-      '-.-'
