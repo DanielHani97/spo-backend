@@ -34,7 +34,7 @@ public class EmailController {
 				String smtpHost = "smtp.mailgun.org";*/
 				String smtpUsername = "spo@osdec.gov.my";
 				String smtpPassword = "29TdX598gz";
-				String smtpHost = "relay2.osdec.gov.my";
+				String smtpHost = "10.29.16.222";
 				int smtpPort = 25;
 				String emailFrom = "SistemPengurusanOSDeC";
 				
