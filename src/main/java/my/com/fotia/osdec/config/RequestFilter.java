@@ -28,7 +28,7 @@ public class RequestFilter implements Filter {
         if(ipAdd == null || "".equals(ipAdd)) {
         	ipAdd = "http://localhost:4200";
         }
-
+        System.out.println(ipAdd);
         response.setHeader("Access-Control-Allow-Origin", ipAdd);
         response.setHeader("Access-Control-Allow-Methods", "POST, PUT, GET, OPTIONS, DELETE");
         response.setHeader("Access-Control-Allow-Headers", "x-requested-with, authorization, content-type, xsrf-token");
